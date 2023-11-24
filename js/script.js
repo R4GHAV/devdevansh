@@ -21,8 +21,8 @@ gsap.registerPlugin(ScrollTrigger),
             .timeline({
               scrollTrigger: {
                 trigger: $(this),
-                start: "bottom 80%",
-                end: "bottom 30%",
+                start: "top 80%",
+                end: "top 70%",
                 scrub: 1,
               },
             })

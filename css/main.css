@@ -177,7 +177,7 @@ html {
 }
 @media (min-width: 768px) {
   html {
-    font-size: 0.825vw;
+    font-size: 1vw;
   }
 }
 @media (min-width: 1920px) {
