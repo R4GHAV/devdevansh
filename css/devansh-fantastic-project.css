@@ -9145,6 +9145,9 @@ a {
   .sc-clients-list, .sc-whatido {
     display: none;
   }
+  .new_vid {
+    display: none !important;
+  }
   .cta-text {
     font-size: 16px;
   }
@@ -9449,7 +9452,6 @@ a {
   }
   .sc-container.c-header.fromtab {
     padding-top: 0;
-    padding-bottom: 10em;
   }
   .sc-container.c-header-inner.fromtab {
     padding-top: 0;
@@ -9457,7 +9459,7 @@ a {
     padding-right: 16px;
   }
   .sc-container.about {
-    padding-top: 6em;
+    padding-top: 0;
     padding-bottom: 7em;
   }
   .sc-container.whatido {
