@@ -8382,6 +8382,9 @@ a {
 .draggable_tags_text.hide {
   display: none;
 }
+.mob-ver {
+  display: none;
+}
 .margin-top {
   margin-top: 1.2em;
 }
@@ -9145,6 +9148,14 @@ a {
   /* .sc-clients-list, .sc-whatido {
     display: none;
   } */
+  .mob-ver {
+    display: block;
+  }
+
+  .desk-ver {
+    display: none !important;
+  }
+
   .new_vid {
     display: none !important;
   }
