@@ -9142,9 +9142,9 @@ a {
     padding-top: 0;
     padding-right: 0;
   }
-  .sc-clients-list, .sc-whatido {
+  /* .sc-clients-list, .sc-whatido {
     display: none;
-  }
+  } */
   .new_vid {
     display: none !important;
   }
