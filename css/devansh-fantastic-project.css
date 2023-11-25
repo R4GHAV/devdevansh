@@ -4560,7 +4560,7 @@ a {
   font-size: 16px;
   line-height: 36px;
 }
-.madebytanmay-section {
+.madebydevansh-section {
   z-index: 18;
   width: 100%;
   background-color: #f9f9f9;
@@ -8402,7 +8402,7 @@ a {
   top: 40px;
 }
 .nav-logo {
-  width: 3.75em;
+  width: 4.5em;
 }
 .nav_contact-link {
   -webkit-backdrop-filter: blur(6px);
@@ -8444,7 +8444,7 @@ a {
   grid-row-gap: 8px;
   color: #7b7b7b;
   align-items: center;
-  font-size: 0.875rem;
+  font-size: 16px;
   transition: color 0.3s;
   display: flex;
 }
@@ -8455,7 +8455,7 @@ a {
   color: #fff;
   padding-top: 1px;
   font-family: PPMigra, sans-serif;
-  font-size: 1rem;
+  font-size: 18px;
   font-style: italic;
   display: none;
 }
@@ -9189,6 +9189,9 @@ a {
     margin-top: 120px;
     margin-left: 0;
   }
+  .nav-logo {
+    width: 8.75em;
+  }
   .navlink.link-hover-ix {
     margin-left: 0;
   }
@@ -9489,10 +9492,10 @@ a {
     padding-right: 16px;
   }
   .text-style-h1 {
-    font-size: 4em;
+    font-size: 5em;
   }
   .text-style-h1-alt {
-    font-size: 4.7em;
+    font-size: 8.7em;
   }
   .text-style-h5 {
     font-size: 1.8em;
@@ -9508,13 +9511,13 @@ a {
     margin-top: -27em;
   }
   .text-style-subheading {
-    font-size: 0.75rem;
+    font-size: 1.75rem;
   }
   .about-text-wrapper {
     margin-top: 2em;
   }
   .text-style-h4 {
-    font-size: 2.4em;
+    font-size: 5.4em;
     line-height: 1.2;
   }
   .text-style-h4-alt {
@@ -9528,10 +9531,10 @@ a {
     padding-bottom: 7em;
   }
   .text-style-h2 {
-    font-size: 3em;
+    font-size: 4.5em;
   }
   .text-style-h2.text-caps.text-abs {
-    font-size: 3.5em;
+    font-size: 5.5em;
   }
   .text-wrapper {
     width: 100%;
@@ -9828,10 +9831,10 @@ a {
     padding: 24px 24px 40px;
   }
   .nav-text-link {
-    font-size: 0.8125rem;
+    font-size: 1.8125rem;
   }
   .currenttext {
-    font-size: 0.9rem;
+    font-size: 1.9rem;
   }
   #w-node-_851b2f99-6c8d-fcc3-ab1c-acfc660c1556-6875a6d8 {
     grid-area: 4/1/5/2;

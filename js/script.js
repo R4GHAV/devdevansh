@@ -22,7 +22,7 @@ gsap.registerPlugin(ScrollTrigger),
               scrollTrigger: {
                 trigger: $(this),
                 start: "top 80%",
-                end: "top 70%",
+                end: "top 60%",
                 scrub: 1,
               },
             })
