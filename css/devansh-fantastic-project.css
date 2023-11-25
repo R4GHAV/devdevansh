@@ -9517,7 +9517,7 @@ a {
     margin-top: 2em;
   }
   .text-style-h4 {
-    font-size: 5.4em;
+    font-size: 2.5em;
     line-height: 1.2;
   }
   .text-style-h4-alt {
@@ -9531,10 +9531,10 @@ a {
     padding-bottom: 7em;
   }
   .text-style-h2 {
-    font-size: 4.5em;
+    font-size: 4em;
   }
   .text-style-h2.text-caps.text-abs {
-    font-size: 5.5em;
+    font-size: 4.5em;
   }
   .text-wrapper {
     width: 100%;
@@ -9580,7 +9580,8 @@ a {
     font-size: 0.75rem;
   }
   .text-style-h4-greybg {
-    font-size: 2.4em;
+    font-size: 2.5em;
+    line-height: 1.2;
   }
   .heading-wrapper {
     grid-column-gap: 1em;
@@ -9831,10 +9832,10 @@ a {
     padding: 24px 24px 40px;
   }
   .nav-text-link {
-    font-size: 1.8125rem;
+    font-size: 1rem;
   }
   .currenttext {
-    font-size: 1.9rem;
+    font-size: 1rem;
   }
   #w-node-_851b2f99-6c8d-fcc3-ab1c-acfc660c1556-6875a6d8 {
     grid-area: 4/1/5/2;
